@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 19 18:13:15 2012
 
-@author: qingfeng
-"""
 
 """
 # 构造training.dat和vocab.dat，holdout.dat,小明已完成
